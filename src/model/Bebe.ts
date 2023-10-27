@@ -1,4 +1,4 @@
-export class Bebe{
+export  class Bebe{
     private id: string;
     private nome: string;
     private peso: number;
